@@ -1,7 +1,7 @@
 # Hi!👋🏻 I'm Aisu.🧊 A Taiwanese student.
 
-Now a fourth year student studying at National Taiwan Normal University, Department of Computer Science and Information Engineering.
+Now a senior student studying at National Taiwan Normal University, Department of Computer Science and Information Engineering.
 
-Interest in deep learning the most.
+Deep learning enthusiast but still working hard on it.
 
 Welcome to my Github page.
