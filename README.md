@@ -1,4 +1,4 @@
-# Hi!👋🏻 I'm Aisu.🧊 A Taiwanese student.
+# Hi!👋🏻 I'm Aisu.🧊 A student from Taiwan.
 
 Bachelor candate in Computer Science (CS) at National Taiwan Normal University (NTNU).
 
