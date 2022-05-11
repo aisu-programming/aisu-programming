@@ -1,6 +1,6 @@
 # Hi!👋🏻 I'm Aisu.🧊 A Taiwanese student.
 
-Now a senior student studying at National Taiwan Normal University, Department of Computer Science and Information Engineering.
+Bachelor cadindate in Computer Science (CS) at National Taiwan Normal University (NTNU).
 
 Deep learning enthusiast but still working hard on it.
 
