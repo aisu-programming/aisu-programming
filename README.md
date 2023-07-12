@@ -1,4 +1,4 @@
-# Hi!👋🏻 I'm Aisu.🧊 A student from Taiwan.
+# Hi!👋🏻 I'm Aisu.🧊
 ---
 ### 2023~2025: MS in CS @ NYU
 > Master of Science in Computer Science @ New York University
@@ -7,4 +7,4 @@
 ---
 Deep learning enthusiast but still working hard on it.
 
-Welcome to my Github page.
+Welcome to my GitHub page.
